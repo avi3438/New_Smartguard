@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931407507440",
+    "firebase_url": "https://new-smartguard-d0d66.firebaseio.com",
+    "project_id": "new-smartguard-d0d66",
+    "storage_bucket": "new-smartguard-d0d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931407507440:android:4c25e8ae5942eb01",
+        "android_client_info": {
+          "package_name": "com.hbeonlabs.newsmartguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931407507440-fik8cqqngeiseg9i88rnfpvvt66puhin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hbeonlabs.newsmartguard",
+            "certificate_hash": "97602db730ae36eca333634a3310ed7c3db188db"
+          }
+        },
+        {
+          "client_id": "931407507440-j4jsk9s2ee7esgseuapv2glfc20hn1dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6m3y_GrorioZCrsJAclHF3SYxeEEJFcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931407507440-j4jsk9s2ee7esgseuapv2glfc20hn1dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

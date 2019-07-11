@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SmartGuard</string>
+    <string name="screen1_description">
+        The Smart Guard 24x7 Suite is to control the central ‘Hub’. Be sure to use an active SIM card with balance and SMS pack to communicate with the Hub!
+    </string>
+    <string name="screen2_description">
+        Adding a new device to expand your home security is as easy as 3 taps!”
+    </string>
+    <string name="screen3_description">
+        Have Certain Sensors stay vigilant for intruders while you’re at home!”
+    </string>
+    <string name="hub_text">
+        Hubs are central base stations of the Smart Guard Suite. To register a hub, please do the following:
+    </string>
+
+    <string name="hubtext2">
+        ● Insert an active SIM card that can send / receive SMS (with sufficient balance or SMS Pack) into the Hub
+    </string>
+    <string name="hubtext3">
+        ● Power on the Hub and wait till first beep sound heard from Hub
+    </string>
+    <string name="hubtext4">
+       ● Add the Hub Serial No. and Phone No. of SIM card in Hub below and press the ‘Add hub’ button”
+    </string>
+
+
+</resources>
